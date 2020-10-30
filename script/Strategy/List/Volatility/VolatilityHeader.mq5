@@ -1,0 +1,1 @@
+#include "AverageDirectionalMovementIndex25Level.mq5";
